@@ -4,7 +4,6 @@ albumentations==0.1.12
 altair==4.1.0
 appdirs==1.4.4
 argon2-cffi==20.1.0
-skbuild
 arviz==0.11.2
 astor==0.8.1
 astropy==4.2.1
@@ -315,6 +314,7 @@ setuptools-git==1.2
 Shapely==1.7.1
 simplegeneric==0.8.1
 six==1.15.0
+scikit-build
 sklearn==0.0
 sklearn-pandas==1.8.0
 smart-open==5.1.0
