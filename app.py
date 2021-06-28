@@ -41,7 +41,7 @@ def plot_preds(source_img, boxs, lbels):
     font = ImageFont.truetype(r'/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf', 20)
     for id, box in enumerate(boxes):
         draw.rectangle(((box[0], box[1]), (box[2], box[3])), outline='red')
-        draw.text((box[0], box[1]), list_classes[int(labels[id]-1)])
+        draw.text((box[0], box[1]), list_classes[int(labels[id]-1)], font=font)
     return source_img
 
 
