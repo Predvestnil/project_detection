@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #08AEEA;
+    background-image: linear-gradient(0deg, #FA8072 0%, #FFFF00 100%);
+}
+
+img {
+    border-radius: 8px;
+    max-width: 28%;
+    height: auto;
+}
+
+.div-index {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    padding: 1em;
+}
+
+.inp {
+    max-width: 35%;
+}
