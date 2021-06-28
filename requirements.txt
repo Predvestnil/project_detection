@@ -1,0 +1,8 @@
+Flask==1.0.3
+Bootstrap-Flask==1.4
+https://download.pytorch.org/whl/cpu/torch-1.5.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.6.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
+numpy==1.16.4
+Pillow
+gunicorn==19.9.0
+requests==2.23.0
