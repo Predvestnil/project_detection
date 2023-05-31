@@ -1,5 +1,5 @@
 # project_detection
-
+_Выпускной проект для курса DLS_
 # Скачивание репозитория на локальный диск
 Для запуска сервера(сервер работает на ngrok'е) требуется скачать репозиторий на диск и запустить app.py.
 - git clone https://github.com/Predvestnil/project_detection
